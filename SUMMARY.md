@@ -1,3 +1,3 @@
 # Table of contents
 
-* [👨🏫 Array  functions](README.md)
+* [Hooks in React](README.md)
